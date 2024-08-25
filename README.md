@@ -8,5 +8,5 @@ It is a library repo. If you want to see the source code of Batch++, click here:
 ## How to publish?
 See the CONTRIBUTING.md file!
 
-> [!INFO]
+> [!CAUTION]
 > Packages have an dedicated owner, so if you want to contribute to these packages simply contact with the package onwer.
